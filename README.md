@@ -1,3 +1,3 @@
 # conflictedRepo
 Demo to students how to handle git conflicts (Lets make a readme conflict!)
-eat it bobby
+stuffs
