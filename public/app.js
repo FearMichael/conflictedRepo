@@ -24,7 +24,7 @@ $(document).ready(function () {
         };
 
 
-        let someNewVar = "Trying to make a conflict"
+        let someNewVar = "Trying to break everything!"
 
         console.log(someNewVar);
 
