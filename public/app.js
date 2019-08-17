@@ -23,6 +23,11 @@ $(document).ready(function () {
             favDessert: $("#dessert").val()
         };
 
+
+        let someNewVar = "Trying to make a conflict"
+
+        console.log(someNewVar);
+
         console.log(formData);
         database.collection("/users").add(formData).then(data => {
             console.log(data)
