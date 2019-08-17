@@ -26,6 +26,8 @@ $(document).ready(function () {
 
         let someNewVar = "Just break already!"
 
+        // why won't this break?!!
+
         console.log(someNewVar);
 
         console.log(formData);
